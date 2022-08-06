@@ -31,16 +31,12 @@
      <li><b>1919</b> - spent the period working in Milwaukee for Allis-Chalmers</li>
      <li><b>1943</b> - at the age of 86, Tesla died alone in room 3327 of the New Yorker Hotel</li>
   </ul>
-   "If your hate could be turned into <b><i> electricity </i></b>,it would <b><i> light </i></b> up the <b><i>whole world</i></b>"</h4>
+   <h4>"If your hate could be turned into <b><i> electricity </i></b>,it would <b><i> light </i></b> up the <b><i>whole world</i></b>"</h4>
     <p class="text-center">- <em><small><b>Nikola Tesla</b></small></em></p>
     <div class="text-center"
    <p>For details pls visit <a href="https://en.wikipedia.org/wiki/Nikola_Tesla" target="_blank">Wikipedia</a>.</p>
   </div>
   </div>   
-  </div>
-   
-   <hr />
-   
-   
+  </div>   
 </body>
 </html>
