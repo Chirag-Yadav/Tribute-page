@@ -31,7 +31,7 @@
      <li><b>1919</b> - spent the period working in Milwaukee for Allis-Chalmers</li>
      <li><b>1943</b> - at the age of 86, Tesla died alone in room 3327 of the New Yorker Hotel</li>
   </ul>
-    <b><i>"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more."</b></i></h4>
+   <b><i>"If your hate could be turned into <b><i> electricity </i></b>,it would <b><i> light </i></b> up the <b><i>whole world</i></b>"</b></i></h4>
     <p class="text-center">- <em><small><b>Nikola Tesla</b></small></em></p>
     <div class="text-center"
    <p>For details pls visit <a href="https://en.wikipedia.org/wiki/Nikola_Tesla" target="_blank">Wikipedia</a>.</p>
